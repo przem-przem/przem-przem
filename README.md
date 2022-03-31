@@ -28,7 +28,7 @@ Fine design and bringing it into life is what I am passionate about. With the ba
 ### **2048 Game**
 
 
-My implementation of popular sliding tile puzzle game. The user can customize the game by choosing the grid size, base number or enable dark mode. See [live version](https://przem-przem.github.io/2048/) or [Github project](https://github.com/przem-przem/2048).
+My implementation of popular sliding tile puzzle game. The user can customize the game by choosing the grid size, base number or enabling dark mode. See [live version](https://przem-przem.github.io/2048/) or [Github project](https://github.com/przem-przem/2048).
 
 ![2048 game gameboard](/docs/2048.png)
 
@@ -55,6 +55,6 @@ A vanilla-JS simple wesite that allows to get familiar with the basic facts abou
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/386/386605.png" width="25px"> Contact
 
-[Take a look at my CV](https://drive.google.com/file/d/1Pj4Db83zjPmrFrQmZJnnCbzVv1nylJBN/view?usp=sharing) and hire me!
+[Take a look at my CV](https://drive.google.com/file/d/1O1prtm_4ybcP9EanJJZAb4ofeLIEsUeE/view?usp=sharing) and hire me!
 
 Contact me via [LinkedIn profile](https://www.linkedin.com/in/przem-przem/).
