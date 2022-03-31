@@ -27,10 +27,10 @@ Fine design and bringing it into life is what I am passionate about. With the ba
 
 **2048 Game**
 
-![2048 game gameboard](/docs/2048.png)
 
 My implementation of popular sliding tile puzzle game. The user can personalize the game by choosing the grid size, base number or enable dark mode. See [live version](https://przem-przem.github.io/2048/) or [Github project](https://github.com/przem-przem/2048).
 
+![2048 game gameboard](/docs/2048.png)
 
 **Tip Calculator**
 
