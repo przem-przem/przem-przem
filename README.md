@@ -1,10 +1,10 @@
 # Hello Outlander! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
-**My name is Przemek. I'm a rookie frontend dev.**
+### **My name is Przemek. I'm a rookie frontend dev.**
 
 Fine design and bringing it into life is what I am passionate about. With the background in engineering, I am looking for my first commercial experience as a frontend developer.
 
-## Tech stack
+## <img src="https://cdn-icons.flaticon.com/png/512/2963/premium/2963833.png?token=exp=1648728666~hmac=b6c4397273094e92579a704d78743c89" width="25px"> Tech stack
 
 👉 Semantic HTML
 
@@ -23,7 +23,7 @@ Fine design and bringing it into life is what I am passionate about. With the ba
 👉 npm + Parcel
 
 
-## My projects
+## <img src="https://cdn-icons-png.flaticon.com/512/2285/2285485.png" width="25px"> My projects
 
 **2048 Game**
 
@@ -46,14 +46,14 @@ A vanilla-JS simple wesite that allows to get familiar with the basic facts abou
 
 ![planets site layout](/docs/planets.png)
 
-## At presrent
+## <img src="https://cdn-icons-png.flaticon.com/512/591/591855.png" width="25px"> At present
 
 - **I'm currently learning:** React Hooks and React Router.
 
 - **I'm currently working on:** rewriting Planets site using React library.
 
 
-## Contact
+## <img src="https://cdn-icons-png.flaticon.com/512/386/386605.png" width="25px"> Contact
 
 [Take a look at my CV](https://drive.google.com/file/d/1Pj4Db83zjPmrFrQmZJnnCbzVv1nylJBN/view?usp=sharing) and hire me!
 
