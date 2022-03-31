@@ -1,4 +1,4 @@
-# Hello Outlander! 👋
+# Hello Outlander! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
 **My name is Przemek. I'm a rookie frontend dev.**
 
@@ -6,14 +6,21 @@ Fine design and bringing it into life is what I am passionate about. With the ba
 
 ## Tech stack
 
-- Semantic HTML
-- CSS/SASS
-- Modern Javascript with REST API
-- React + Redux
-- Figma
-- Bootstrap
-- Mobile-first workflow
-- npm + Parcel
+👉 Semantic HTML
+
+👉 CSS/SASS
+
+👉 Modern Javascript with REST API
+
+👉 React + Redux
+
+👉 Figma
+
+👉 Bootstrap
+
+👉 Mobile-first workflow
+
+👉 npm + Parcel
 
 
 ## My projects
@@ -39,7 +46,7 @@ A vanilla-JS simple wesite that allows to get familiar with the basic facts abou
 
 ![planets site layout](/docs/planets.png)
 
-## Future
+## At presrent
 
 - **I'm currently learning:** React Hooks and React Router.
 
@@ -50,4 +57,4 @@ A vanilla-JS simple wesite that allows to get familiar with the basic facts abou
 
 [Take a look at my CV](https://drive.google.com/file/d/1Pj4Db83zjPmrFrQmZJnnCbzVv1nylJBN/view?usp=sharing) and hire me!
 
-Contact me via [LinkedIn profile](https://www.linkedin.com/in/przem-przem/)
+Contact me via [LinkedIn profile](https://www.linkedin.com/in/przem-przem/).
