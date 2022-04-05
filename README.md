@@ -55,6 +55,6 @@ A vanilla-JS simple wesite that allows to get familiar with the basic facts abou
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/386/386605.png" width="25px"> Contact
 
-[Take a look at my CV](https://drive.google.com/file/d/1O1prtm_4ybcP9EanJJZAb4ofeLIEsUeE/view?usp=sharing) and hire me!
+[Take a look at my CV](https://drive.google.com/file/d/1xIRFYwa1r34wWBI4a0ZrXXbxhD0zbgkl/view?usp=sharing) and hire me!
 
 Contact me via [LinkedIn profile](https://www.linkedin.com/in/przem-przem/).
